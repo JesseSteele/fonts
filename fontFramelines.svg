@@ -1,0 +1,3924 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   sodipodi:docname="fontFramelines.svg"
+   inkscape:version="0.91 r13725"
+   sodipodi:version="0.32"
+   id="svg5496"
+   height="1000"
+   width="1000"
+   version="1.0"
+   viewBox="0 0 1000 1000">
+  <sodipodi:namedview
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer25"
+     inkscape:window-y="27"
+     inkscape:window-x="807"
+     inkscape:cy="500"
+     inkscape:cx="175.55018"
+     inkscape:zoom="0.783"
+     inkscape:guide-bbox="true"
+     showguides="true"
+     showgrid="false"
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1084"
+     inkscape:window-height="1007"
+     inkscape:document-units="px"
+     inkscape:snap-bbox="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:bbox-paths="true"
+     inkscape:snap-nodes="true"
+     inkscape:object-paths="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:object-nodes="true">
+    <sodipodi:guide
+       orientation="0,1"
+       position="-91.954023,250.31928"
+       inkscape:label="baseline"
+       id="guide5146" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="-68.965517,918.26309"
+       inkscape:label="caps"
+       id="guide5150" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="-132.82248,583.65262"
+       inkscape:label="xheight"
+       id="guide5152" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="0,0"
+       inkscape:label="descender"
+       id="guide5154" />
+    <sodipodi:guide
+       id="guide4732"
+       inkscape:label="ascender"
+       position="0,1000"
+       orientation="0,1" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5594">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs5498">
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect4800"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4795"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect4791"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect4787"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect4782"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect4776"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4771"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect4762"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4758"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect4754"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4750"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4746"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect4742"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4738"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4732"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect4724"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4720"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect4716"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4712"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect4707"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect4701"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4697"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect4693"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect4688"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect4684"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4680"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect4676"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4672"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect5183"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect5179"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect5175"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4449"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4444"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4440"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4408"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4418"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4434"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect5158"
+       is_visible="true" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 500 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="1000 : 500 : 1"
+       inkscape:persp3d-origin="500 : 333.33333 : 1"
+       id="perspective3931" />
+    <font
+       horiz-adv-x="1024"
+       id="font3933"
+       inkscape:label="font 1">
+      <font-face
+         units-per-em="1024"
+         id="font-face3935"
+         font-family="SVGFont 1" />
+      <missing-glyph
+         d="m 806.45782,598.71998 q 0,208.69453 -86.6082,323.4765 -85.56476,114.78202 -241.04217,114.78202 -154.43395,0 -241.04217,-114.78202 -85.56473,-114.78197 -85.56473,-323.4765 0,-207.65105 85.56473,-322.43303 86.60822,-114.78197 241.04217,-114.78197 155.47741,0 241.04217,114.78197 86.6082,114.78198 86.6082,322.43303 z m 191.99895,-452.8671 q 0,-298.43318 -132.52099,-443.47588 -132.52102,-146.0863 -405.91085,-146.0863 -101.21683,0 -190.95547,15.6522 -89.73865,14.6088 -174.259941,45.9128 l 0,186.7816 q 84.521291,-45.9128 166.955621,-67.8257 82.43434,-21.913 167.99908,-21.913 188.86854,0 282.78108,99.1299 93.91252,98.0865 93.91252,297.38975 l 0,94.95606 Q 746.97989,103.07052 654.11085,51.94035 561.24177,0.81015 431.85118,0.81015 q -214.95536,0 -346.432884,163.82525 -131.47755,163.82519 -131.47755,434.08458 0,271.30286 131.47755,435.12802 131.477524,163.8252 346.432884,163.8252 129.39059,0 222.25967,-51.1301 92.86904,-51.1302 152.34697,-154.43397 l 0,177.39037 191.99895,0 0,-1023.64662 z"
+         id="missing-glyph3937" />
+      <glyph
+         glyph-name="glyph 1"
+         id="glyph3939"
+         unicode="a" />
+      <glyph
+         glyph-name="glyph 2"
+         id="glyph3941"
+         unicode="b" />
+      <glyph
+         glyph-name="glyph 3"
+         id="glyph3943"
+         unicode="c" />
+      <glyph
+         glyph-name="glyph 4"
+         id="glyph3945"
+         unicode="d" />
+      <glyph
+         glyph-name="glyph 5"
+         id="glyph3947"
+         unicode="e" />
+      <glyph
+         glyph-name="glyph 6"
+         id="glyph3949"
+         unicode="f" />
+      <glyph
+         glyph-name="glyph 7"
+         id="glyph3951"
+         unicode="g"
+         d="m 806.45782,598.71998 q 0,208.69453 -86.6082,323.4765 -85.56476,114.78202 -241.04217,114.78202 -154.43395,0 -241.04217,-114.78202 -85.56473,-114.78197 -85.56473,-323.4765 0,-207.65105 85.56473,-322.43303 86.60822,-114.78197 241.04217,-114.78197 155.47741,0 241.04217,114.78197 86.6082,114.78198 86.6082,322.43303 z m 191.99895,-452.8671 q 0,-298.43318 -132.52099,-443.47588 -132.52102,-146.0863 -405.91085,-146.0863 -101.21683,0 -190.95547,15.6522 -89.73865,14.6088 -174.259941,45.9128 l 0,186.7816 q 84.521291,-45.9128 166.955621,-67.8257 82.43434,-21.913 167.99908,-21.913 188.86854,0 282.78108,99.1299 93.91252,98.0865 93.91252,297.38975 l 0,94.95606 Q 746.97989,103.07052 654.11085,51.94035 561.24177,0.81015 431.85118,0.81015 q -214.95536,0 -346.432884,163.82525 -131.47755,163.82519 -131.47755,434.08458 0,271.30286 131.47755,435.12802 131.477524,163.8252 346.432884,163.8252 129.39059,0 222.25967,-51.1301 92.86904,-51.1302 152.34697,-154.43397 l 0,177.39037 191.99895,0 0,-1023.64662 z" />
+      <glyph
+         glyph-name="glyph 8"
+         id="glyph3953"
+         unicode="h" />
+      <glyph
+         glyph-name="glyph 9"
+         id="glyph3955"
+         unicode="i" />
+      <glyph
+         glyph-name="glyph 10"
+         id="glyph3957"
+         unicode="j" />
+      <glyph
+         glyph-name="glyph 11"
+         id="glyph3959"
+         unicode="k" />
+      <glyph
+         glyph-name="glyph 12"
+         id="glyph3961"
+         unicode="l" />
+      <glyph
+         glyph-name="glyph 13"
+         id="glyph3963"
+         unicode="m" />
+      <glyph
+         glyph-name="glyph 14"
+         id="glyph3965"
+         unicode="n" />
+      <glyph
+         glyph-name="glyph 15"
+         id="glyph3967"
+         unicode="o" />
+      <glyph
+         glyph-name="glyph 16"
+         id="glyph3969"
+         unicode="p" />
+      <glyph
+         glyph-name="glyph 17"
+         id="glyph3971"
+         unicode="q" />
+      <glyph
+         glyph-name="glyph 18"
+         id="glyph3973"
+         unicode="r" />
+      <glyph
+         glyph-name="glyph 19"
+         id="glyph3975"
+         unicode="s" />
+      <glyph
+         glyph-name="glyph 20"
+         id="glyph3977"
+         unicode="t" />
+      <glyph
+         glyph-name="glyph 21"
+         id="glyph3979"
+         unicode="u" />
+      <glyph
+         glyph-name="glyph 22"
+         id="glyph3981"
+         unicode="v" />
+      <glyph
+         glyph-name="glyph 23"
+         id="glyph3983"
+         unicode="w" />
+      <glyph
+         glyph-name="glyph 24"
+         id="glyph3985"
+         unicode="x" />
+      <glyph
+         glyph-name="glyph 25"
+         id="glyph3987"
+         unicode="y" />
+      <glyph
+         glyph-name="glyph 26"
+         id="glyph3989"
+         unicode="z" />
+      <glyph
+         glyph-name="glyph 27"
+         id="glyph3991"
+         unicode="A" />
+      <glyph
+         glyph-name="glyph 28"
+         id="glyph3993"
+         unicode="B" />
+      <glyph
+         glyph-name="glyph 29"
+         id="glyph3995"
+         unicode="C" />
+      <glyph
+         glyph-name="glyph 30"
+         id="glyph3997"
+         unicode="D" />
+      <glyph
+         glyph-name="glyph 31"
+         id="glyph3999"
+         unicode="E" />
+      <glyph
+         glyph-name="glyph 32"
+         id="glyph4001"
+         unicode="F" />
+      <glyph
+         glyph-name="glyph 33"
+         id="glyph4003"
+         unicode="G" />
+      <glyph
+         glyph-name="glyph 34"
+         id="glyph4005"
+         unicode="H" />
+      <glyph
+         glyph-name="glyph 35"
+         id="glyph4007"
+         unicode="I" />
+      <glyph
+         glyph-name="glyph 36"
+         id="glyph4009"
+         unicode="J" />
+      <glyph
+         glyph-name="glyph 37"
+         id="glyph4011"
+         unicode="K" />
+      <glyph
+         glyph-name="glyph 38"
+         id="glyph4013"
+         unicode="L" />
+      <glyph
+         glyph-name="glyph 39"
+         id="glyph4015"
+         unicode="M" />
+      <glyph
+         glyph-name="glyph 40"
+         id="glyph4017"
+         unicode="N" />
+      <glyph
+         glyph-name="glyph 41"
+         id="glyph4019"
+         unicode="O" />
+      <glyph
+         glyph-name="glyph 42"
+         id="glyph4021"
+         unicode="P" />
+      <glyph
+         glyph-name="glyph 43"
+         id="glyph4023"
+         unicode="Q" />
+      <glyph
+         glyph-name="glyph 44"
+         id="glyph4025"
+         unicode="R" />
+      <glyph
+         glyph-name="glyph 45"
+         id="glyph4027"
+         unicode="S" />
+      <glyph
+         glyph-name="glyph 46"
+         id="glyph4029"
+         unicode="T" />
+      <glyph
+         glyph-name="glyph 47"
+         id="glyph4031"
+         unicode="U" />
+      <glyph
+         glyph-name="glyph 48"
+         id="glyph4033"
+         unicode="V" />
+      <glyph
+         glyph-name="glyph 49"
+         id="glyph4035"
+         unicode="W" />
+      <glyph
+         glyph-name="glyph 50"
+         id="glyph4037"
+         unicode="X" />
+      <glyph
+         glyph-name="glyph 51"
+         id="glyph4039"
+         unicode="Y" />
+      <glyph
+         glyph-name="glyph 52"
+         id="glyph4041"
+         unicode="Z" />
+      <glyph
+         glyph-name="glyph 53"
+         id="glyph4043"
+         unicode="0" />
+      <glyph
+         glyph-name="glyph 54"
+         id="glyph4045"
+         unicode="1" />
+      <glyph
+         glyph-name="glyph 55"
+         id="glyph4047"
+         unicode="2" />
+      <glyph
+         glyph-name="glyph 56"
+         id="glyph4049"
+         unicode="3" />
+      <glyph
+         glyph-name="glyph 57"
+         id="glyph4051"
+         unicode="4" />
+      <glyph
+         glyph-name="glyph 58"
+         id="glyph4053"
+         unicode="5" />
+      <glyph
+         glyph-name="glyph 59"
+         id="glyph4055"
+         unicode="6" />
+      <glyph
+         glyph-name="glyph 60"
+         id="glyph4057"
+         unicode="7" />
+      <glyph
+         glyph-name="glyph 61"
+         id="glyph4059"
+         unicode="8" />
+      <glyph
+         glyph-name="glyph 62"
+         id="glyph4061"
+         unicode="9" />
+      <glyph
+         glyph-name="glyph 63"
+         id="glyph4503" />
+      <glyph
+         glyph-name="glyph 64"
+         id="glyph4505" />
+      <glyph
+         glyph-name="glyph 65"
+         id="glyph4507" />
+    </font>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4670"
+       is_visible="true" />
+  </defs>
+  <g
+     inkscape:label="Grid"
+     id="layer10"
+     inkscape:groupmode="layer"
+     style="display:inline">
+    <g
+       transform="matrix(15.684515,0,0,15.684515,-342.33064,-5347.1963)"
+       id="g4910">
+      <g
+         id="g4792">
+        <rect
+           y="340.94568"
+           x="44.659004"
+           height="10.600405"
+           width="10.600405"
+           id="rect5571"
+           style="fill:none;stroke:#00ff00;stroke-width:0.02520875;stroke-miterlimit:4;stroke-dasharray:none" />
+        <rect
+           y="340.94568"
+           x="55.284618"
+           height="10.600405"
+           width="10.600405"
+           id="rect5577"
+           style="fill:none;stroke:#00ff00;stroke-width:0.02520875;stroke-miterlimit:4;stroke-dasharray:none" />
+        <rect
+           style="fill:none;stroke:#00ff00;stroke-width:0.02520875;stroke-miterlimit:4;stroke-dasharray:none"
+           id="rect5595"
+           width="10.600405"
+           height="10.600405"
+           x="44.659004"
+           y="351.57129" />
+        <rect
+           style="fill:none;stroke:#00ff00;stroke-width:0.02520875;stroke-miterlimit:4;stroke-dasharray:none"
+           id="rect5601"
+           width="10.600405"
+           height="10.600405"
+           x="55.284618"
+           y="351.57129" />
+        <rect
+           style="fill:none;stroke:#00ff00;stroke-width:0.02520875;stroke-miterlimit:4;stroke-dasharray:none"
+           id="rect5619"
+           width="10.600405"
+           height="10.600405"
+           x="44.659004"
+           y="362.1969" />
+        <rect
+           style="fill:none;stroke:#00ff00;stroke-width:0.02520875;stroke-miterlimit:4;stroke-dasharray:none"
+           id="rect5625"
+           width="10.600405"
+           height="10.600405"
+           x="55.284618"
+           y="362.1969" />
+        <rect
+           y="372.82251"
+           x="44.659004"
+           height="10.600405"
+           width="10.600405"
+           id="rect5643"
+           style="fill:none;stroke:#00ff00;stroke-width:0.02520875;stroke-miterlimit:4;stroke-dasharray:none" />
+        <rect
+           y="372.82251"
+           x="55.284618"
+           height="10.600405"
+           width="10.600405"
+           id="rect5649"
+           style="fill:none;stroke:#00ff00;stroke-width:0.02520875;stroke-miterlimit:4;stroke-dasharray:none" />
+        <rect
+           y="383.44812"
+           x="44.659004"
+           height="10.600405"
+           width="10.600405"
+           id="rect4355"
+           style="fill:none;stroke:#00ff00;stroke-width:0.02520875;stroke-miterlimit:4;stroke-dasharray:none" />
+        <rect
+           y="383.44812"
+           x="55.284622"
+           height="10.600405"
+           width="10.600405"
+           id="rect4357"
+           style="fill:none;stroke:#00ff00;stroke-width:0.02520875;stroke-miterlimit:4;stroke-dasharray:none" />
+        <rect
+           style="fill:none;stroke:#00ff00;stroke-width:0.02520875;stroke-miterlimit:4;stroke-dasharray:none"
+           id="rect4359"
+           width="10.600405"
+           height="10.600405"
+           x="44.659004"
+           y="394.07373" />
+        <rect
+           style="fill:none;stroke:#00ff00;stroke-width:0.02520875;stroke-miterlimit:4;stroke-dasharray:none"
+           id="rect4361"
+           width="10.600405"
+           height="10.600405"
+           x="55.284622"
+           y="394.07373" />
+      </g>
+      <g
+         id="g4814">
+        <rect
+           style="fill:none;stroke:#ff0000;stroke-width:0.02520875;stroke-miterlimit:4;stroke-dasharray:none"
+           id="rect5565"
+           width="10.600405"
+           height="10.600405"
+           x="34.03339"
+           y="340.94568" />
+        <rect
+           style="fill:none;stroke:#ff0000;stroke-width:0.02520875;stroke-miterlimit:4;stroke-dasharray:none"
+           id="rect5583"
+           width="10.600405"
+           height="10.600405"
+           x="65.910233"
+           y="340.94568" />
+        <rect
+           y="351.57129"
+           x="34.03339"
+           height="10.600405"
+           width="10.600405"
+           id="rect5589"
+           style="fill:none;stroke:#ff0000;stroke-width:0.02520875;stroke-miterlimit:4;stroke-dasharray:none" />
+        <rect
+           y="351.57129"
+           x="65.910233"
+           height="10.600405"
+           width="10.600405"
+           id="rect5607"
+           style="fill:none;stroke:#ff0000;stroke-width:0.02520875;stroke-miterlimit:4;stroke-dasharray:none" />
+        <rect
+           y="362.1969"
+           x="34.03339"
+           height="10.600405"
+           width="10.600405"
+           id="rect5613"
+           style="fill:none;stroke:#ff0000;stroke-width:0.02520875;stroke-miterlimit:4;stroke-dasharray:none" />
+        <rect
+           y="362.1969"
+           x="65.910233"
+           height="10.600405"
+           width="10.600405"
+           id="rect5631"
+           style="fill:none;stroke:#ff0000;stroke-width:0.02520875;stroke-miterlimit:4;stroke-dasharray:none" />
+        <rect
+           style="fill:none;stroke:#ff0000;stroke-width:0.02520875;stroke-miterlimit:4;stroke-dasharray:none"
+           id="rect5637"
+           width="10.600405"
+           height="10.600405"
+           x="34.03339"
+           y="372.82251" />
+        <rect
+           style="fill:none;stroke:#ff0000;stroke-width:0.02520875;stroke-miterlimit:4;stroke-dasharray:none"
+           id="rect5655"
+           width="10.600405"
+           height="10.600405"
+           x="65.910233"
+           y="372.82251" />
+        <rect
+           style="fill:none;stroke:#ff0000;stroke-width:0.02520875;stroke-miterlimit:4;stroke-dasharray:none"
+           id="rect4373"
+           width="10.600405"
+           height="10.600405"
+           x="34.033394"
+           y="383.44812" />
+        <rect
+           style="fill:none;stroke:#ff0000;stroke-width:0.02520875;stroke-miterlimit:4;stroke-dasharray:none"
+           id="rect4375"
+           width="10.600405"
+           height="10.600405"
+           x="65.910233"
+           y="383.44812" />
+        <rect
+           y="394.07373"
+           x="34.033394"
+           height="10.600405"
+           width="10.600405"
+           id="rect4377"
+           style="fill:none;stroke:#ff0000;stroke-width:0.02520875;stroke-miterlimit:4;stroke-dasharray:none" />
+        <rect
+           y="394.07373"
+           x="65.910233"
+           height="10.600405"
+           width="10.600405"
+           id="rect4379"
+           style="fill:none;stroke:#ff0000;stroke-width:0.02520875;stroke-miterlimit:4;stroke-dasharray:none" />
+      </g>
+      <g
+         id="g4860">
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:#ff00ff;stroke-width:0.05041751;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 39.358546,340.93307 0,10.62561"
+           id="path5567"
+           inkscape:connector-curvature="0" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path5569"
+           d="m 34.020783,346.24588 10.625613,0"
+           style="fill:none;fill-rule:evenodd;stroke:#ff00ff;stroke-width:0.05041751;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path5573"
+           d="m 49.984159,340.93307 0,10.62561"
+           style="fill:none;fill-rule:evenodd;stroke:#ff00ff;stroke-width:0.05041751;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:#ff00ff;stroke-width:0.05041751;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 44.646396,346.24588 10.625613,0"
+           id="path5575"
+           inkscape:connector-curvature="0" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path5579"
+           d="m 60.609773,340.93307 0,10.62561"
+           style="fill:none;fill-rule:evenodd;stroke:#ff00ff;stroke-width:0.05041751;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:#ff00ff;stroke-width:0.05041751;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 55.272009,346.24588 10.625614,0"
+           id="path5581"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:#ff00ff;stroke-width:0.05041751;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 71.235386,340.93308 0,10.62561"
+           id="path5585"
+           inkscape:connector-curvature="0" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path5587"
+           d="m 65.897623,346.24588 10.625613,0"
+           style="fill:none;fill-rule:evenodd;stroke:#ff00ff;stroke-width:0.05041751;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path5591"
+           d="m 39.358546,351.55868 0,10.62561"
+           style="fill:none;fill-rule:evenodd;stroke:#ff00ff;stroke-width:0.05041751;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:#ff00ff;stroke-width:0.05041751;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 34.020783,356.87149 10.625613,0"
+           id="path5593"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:#ff00ff;stroke-width:0.05041751;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 49.984159,351.55868 0,10.62562"
+           id="path5597"
+           inkscape:connector-curvature="0" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path5599"
+           d="m 44.646396,356.87149 10.625613,0"
+           style="fill:none;fill-rule:evenodd;stroke:#ff00ff;stroke-width:0.05041751;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:#ff00ff;stroke-width:0.05041751;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 60.609773,351.55868 0,10.62562"
+           id="path5603"
+           inkscape:connector-curvature="0" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path5605"
+           d="m 55.272009,356.87149 10.625614,0"
+           style="fill:none;fill-rule:evenodd;stroke:#ff00ff;stroke-width:0.05041751;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path5609"
+           d="m 71.235386,351.55869 0,10.62561"
+           style="fill:none;fill-rule:evenodd;stroke:#ff00ff;stroke-width:0.05041751;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:#ff00ff;stroke-width:0.05041751;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 65.897623,356.8715 10.625613,0"
+           id="path5611"
+           inkscape:connector-curvature="0" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path5615"
+           d="m 39.358546,362.18429 0,10.62562"
+           style="fill:none;fill-rule:evenodd;stroke:#ff00ff;stroke-width:0.05041751;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:#ff00ff;stroke-width:0.05041751;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 34.020783,367.4971 10.625613,0"
+           id="path5617"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:#ff00ff;stroke-width:0.05041751;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 49.984159,362.1843 0,10.62561"
+           id="path5621"
+           inkscape:connector-curvature="0" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path5623"
+           d="m 44.646396,367.49711 10.625613,0"
+           style="fill:none;fill-rule:evenodd;stroke:#ff00ff;stroke-width:0.05041751;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:#ff00ff;stroke-width:0.05041751;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 60.609773,362.1843 0,10.62561"
+           id="path5627"
+           inkscape:connector-curvature="0" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path5629"
+           d="m 55.272009,367.49711 10.625614,0"
+           style="fill:none;fill-rule:evenodd;stroke:#ff00ff;stroke-width:0.05041751;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path5633"
+           d="m 71.235386,362.1843 0,10.62562"
+           style="fill:none;fill-rule:evenodd;stroke:#ff00ff;stroke-width:0.05041751;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:#ff00ff;stroke-width:0.05041751;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 65.897623,367.49711 10.625613,0"
+           id="path5635"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:#ff00ff;stroke-width:0.05041751;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 39.358546,372.80991 0,10.62561"
+           id="path5639"
+           inkscape:connector-curvature="0" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path5641"
+           d="m 34.020783,378.12272 10.625613,0"
+           style="fill:none;fill-rule:evenodd;stroke:#ff00ff;stroke-width:0.05041751;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path5645"
+           d="m 49.984159,372.80991 0,10.62561"
+           style="fill:none;fill-rule:evenodd;stroke:#ff00ff;stroke-width:0.05041751;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:#ff00ff;stroke-width:0.05041751;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 44.646396,378.12272 10.625613,0"
+           id="path5647"
+           inkscape:connector-curvature="0" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path5651"
+           d="m 60.609773,372.80991 0,10.62561"
+           style="fill:none;fill-rule:evenodd;stroke:#ff00ff;stroke-width:0.05041751;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:#ff00ff;stroke-width:0.05041751;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 55.272009,378.12272 10.625614,0"
+           id="path5653"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:#ff00ff;stroke-width:0.05041751;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 71.235386,372.80992 0,10.62561"
+           id="path5657"
+           inkscape:connector-curvature="0" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path5659"
+           d="m 65.897623,378.12272 10.625613,0"
+           style="fill:none;fill-rule:evenodd;stroke:#ff00ff;stroke-width:0.05041751;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:#ff00ff;stroke-width:0.05041751;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 39.358547,383.43551 0,10.62562"
+           id="path4415"
+           inkscape:connector-curvature="0" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path4417"
+           d="m 34.020784,388.74832 10.625613,0"
+           style="fill:none;fill-rule:evenodd;stroke:#ff00ff;stroke-width:0.05041751;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path4419"
+           d="m 49.98416,383.43552 0,10.62561"
+           style="fill:none;fill-rule:evenodd;stroke:#ff00ff;stroke-width:0.05041751;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:#ff00ff;stroke-width:0.05041751;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 44.646397,388.74833 10.625613,0"
+           id="path4421"
+           inkscape:connector-curvature="0" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path4423"
+           d="m 60.60977,383.43552 0,10.62561"
+           style="fill:none;fill-rule:evenodd;stroke:#ff00ff;stroke-width:0.05041751;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:#ff00ff;stroke-width:0.05041751;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 55.27201,388.74833 10.62561,0"
+           id="path4425"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:#ff00ff;stroke-width:0.05041751;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 71.23539,383.43552 0,10.62562"
+           id="path4427"
+           inkscape:connector-curvature="0" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path4429"
+           d="m 65.89762,388.74833 10.62562,0"
+           style="fill:none;fill-rule:evenodd;stroke:#ff00ff;stroke-width:0.05041751;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path4431"
+           d="m 39.358547,394.06113 0,10.62561"
+           style="fill:none;fill-rule:evenodd;stroke:#ff00ff;stroke-width:0.05041751;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:#ff00ff;stroke-width:0.05041751;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 34.020784,399.37394 10.625613,0"
+           id="path4433"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:#ff00ff;stroke-width:0.05041751;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 49.98416,394.06113 0,10.62561"
+           id="path4435"
+           inkscape:connector-curvature="0" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path4437"
+           d="m 44.646397,399.37394 10.625613,0"
+           style="fill:none;fill-rule:evenodd;stroke:#ff00ff;stroke-width:0.05041751;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:#ff00ff;stroke-width:0.05041751;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 60.60977,394.06113 0,10.62561"
+           id="path4439"
+           inkscape:connector-curvature="0" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path4441"
+           d="m 55.27201,399.37394 10.62561,0"
+           style="fill:none;fill-rule:evenodd;stroke:#ff00ff;stroke-width:0.05041751;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path4443"
+           d="m 71.23539,394.06114 0,10.62561"
+           style="fill:none;fill-rule:evenodd;stroke:#ff00ff;stroke-width:0.05041751;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:#ff00ff;stroke-width:0.05041751;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 65.89762,399.37394 10.62562,0"
+           id="path4445"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer46"
+     inkscape:label="Cyrillic"
+     style="display:none">
+    <g
+       inkscape:groupmode="layer"
+       id="layer47"
+       inkscape:label="Wiki https://en.wikipedia.org/wiki/Cyrillic_alphabets"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer506"
+       inkscape:label="1103 я"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer505"
+       inkscape:label="1102 ю"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer509"
+       inkscape:label="1101 э"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer504"
+       inkscape:label="1100 ь"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer508"
+       inkscape:label="1099 ы"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer510"
+       inkscape:label="1098 ъ"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer503"
+       inkscape:label="1097 щ"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer502"
+       inkscape:label="1096 ш"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer499"
+       inkscape:label="1095 ч"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer498"
+       inkscape:label="1094 ц"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer497"
+       inkscape:label="1093 х"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer496"
+       inkscape:label="1092 ф"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer495"
+       inkscape:label="1091 у"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer494"
+       inkscape:label="1090 т"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer493"
+       inkscape:label="1089 с"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer492"
+       inkscape:label="1088 р"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer491"
+       inkscape:label="1087 п"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer490"
+       inkscape:label="1086 о"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer489"
+       inkscape:label="1085 н"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer488"
+       inkscape:label="1084 м"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer487"
+       inkscape:label="1083 л"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer486"
+       inkscape:label="1082 к"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer485"
+       inkscape:label="1081 й"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer484"
+       inkscape:label="1080 и"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer483"
+       inkscape:label="1079 з"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer482"
+       inkscape:label="1078 ж"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer481"
+       inkscape:label="1077 е"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer480"
+       inkscape:label="1076 д - italics notes"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer479"
+       inkscape:label="1075 г - italics notes"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer478"
+       inkscape:label="1074 в - italics notes"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer477"
+       inkscape:label="1073 б"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer476"
+       inkscape:label="1072 а"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer285"
+       inkscape:label="1071 Я"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer286"
+       inkscape:label="1070 Ю"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer500"
+       inkscape:label="1069 Э"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer287"
+       inkscape:label="1068 Ь"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer501"
+       inkscape:label="1067 Ы"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer507"
+       inkscape:label="1066 Ъ"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer288"
+       inkscape:label="1065 Щ"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer289"
+       inkscape:label="1064 Ш"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer290"
+       inkscape:label="1063 Ч"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer291"
+       inkscape:label="1062 Ц"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer292"
+       inkscape:label="1061 Х"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer293"
+       inkscape:label="1060 Ф"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer294"
+       inkscape:label="1059 У"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer295"
+       inkscape:label="1058 Т"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer296"
+       inkscape:label="1057 С"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer297"
+       inkscape:label="1056 Р"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer298"
+       inkscape:label="1055 П"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer299"
+       inkscape:label="1054 О"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer300"
+       inkscape:label="1053 Н"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer301"
+       inkscape:label="1052 М"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer302"
+       inkscape:label="1051 Л"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer303"
+       inkscape:label="1050 К"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer304"
+       inkscape:label="1049 Й"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer305"
+       inkscape:label="1048 И"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer306"
+       inkscape:label="1047 З"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer307"
+       inkscape:label="1046 Ж"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer308"
+       inkscape:label="1045 Е"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer309"
+       inkscape:label="1044 Д"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer310"
+       inkscape:label="1043 Г"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer311"
+       inkscape:label="1042 В"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer312"
+       inkscape:label="1041 Б"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer313"
+       inkscape:label="1040 А"
+       style="display:none" />
+  </g>
+  <g
+     style="display:none"
+     inkscape:label="Greek"
+     id="g4504"
+     inkscape:groupmode="layer">
+    <g
+       inkscape:groupmode="layer"
+       id="layer623"
+       inkscape:label="http://symbolcodes.tlt.psu.edu/bylanguage/greekchart.html" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer512"
+       inkscape:label="Cursives, Archaics &amp; Alternatives">
+      <g
+         inkscape:groupmode="layer"
+         id="layer540"
+         inkscape:label="ϡ 993 sampi" />
+      <g
+         inkscape:groupmode="layer"
+         id="layer541"
+         inkscape:label="Ϡ 992 Sampi" />
+      <g
+         inkscape:groupmode="layer"
+         id="layer542"
+         inkscape:label="ϟ 991 koppa" />
+      <g
+         inkscape:groupmode="layer"
+         id="layer543"
+         inkscape:label="Ϟ 990 Koppa" />
+      <g
+         inkscape:groupmode="layer"
+         id="layer544"
+         inkscape:label="ϝ 989 digamma (f)" />
+      <g
+         inkscape:groupmode="layer"
+         id="layer545"
+         inkscape:label="Ϝ 988 Digamma (F)" />
+      <g
+         inkscape:groupmode="layer"
+         id="layer546"
+         inkscape:label="ϛ 987 stigma" />
+      <g
+         inkscape:groupmode="layer"
+         id="layer547"
+         inkscape:label="Ϛ 986 Stigma" />
+      <g
+         inkscape:groupmode="layer"
+         id="layer557"
+         inkscape:label=" ϙ 985 koppa" />
+      <g
+         inkscape:groupmode="layer"
+         id="layer556"
+         inkscape:label="Ϙ 984 Koppa" />
+      <g
+         inkscape:groupmode="layer"
+         id="layer548"
+         inkscape:label="ϗ 983 kai symbol" />
+      <g
+         inkscape:groupmode="layer"
+         id="layer549"
+         inkscape:label="ϖ 982 pi symbol" />
+      <g
+         inkscape:groupmode="layer"
+         id="layer550"
+         inkscape:label="ϕ 981 phi symbol (cursive)" />
+      <g
+         inkscape:groupmode="layer"
+         id="layer551"
+         inkscape:label="ϔ 980 Upsilon diaeresis &amp; hook" />
+      <g
+         inkscape:groupmode="layer"
+         id="layer552"
+         inkscape:label="ϓ 979 Upsilon acute &amp; hook" />
+      <g
+         inkscape:groupmode="layer"
+         id="layer553"
+         inkscape:label="ϒ 978 Upsilon hook" />
+      <g
+         inkscape:groupmode="layer"
+         id="layer554"
+         inkscape:label="ϑ 977 theta (cursive)" />
+      <g
+         inkscape:groupmode="layer"
+         id="layer555"
+         inkscape:label="ϐ 976 beta (cursive)" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer511"
+       inkscape:label="Punctuation &amp; Accents">
+      <g
+         inkscape:groupmode="layer"
+         id="layer517"
+         inkscape:label="ΐ 912 iota with dialytika and tonos" />
+      <g
+         inkscape:label="ΰ 944 upsilon with dialytika and tonos copy"
+         id="g4225"
+         inkscape:groupmode="layer" />
+      <g
+         inkscape:groupmode="layer"
+         id="g4227"
+         inkscape:label="ϋ 971 upsilon with dialytika" />
+      <g
+         inkscape:label="ϊ 970 iota with dialytika"
+         id="g4229"
+         inkscape:groupmode="layer" />
+      <g
+         inkscape:groupmode="layer"
+         id="layer518"
+         inkscape:label="Ϋ 939 Upsilon with dialytika" />
+      <g
+         inkscape:groupmode="layer"
+         id="layer519"
+         inkscape:label="Ϊ 938 Iota with dialytika" />
+      <g
+         inkscape:groupmode="layer"
+         id="layer520"
+         inkscape:label="ώ 974 omega with tonos" />
+      <g
+         inkscape:groupmode="layer"
+         id="layer521"
+         inkscape:label="ύ 973 upsilon with tonos" />
+      <g
+         inkscape:groupmode="layer"
+         id="layer522"
+         inkscape:label="ί 943 iota with tonos" />
+      <g
+         inkscape:groupmode="layer"
+         id="layer523"
+         inkscape:label="ό 972 omicron with tonos" />
+      <g
+         inkscape:groupmode="layer"
+         id="layer524"
+         inkscape:label="ή 942 eta with tonos" />
+      <g
+         inkscape:groupmode="layer"
+         id="layer525"
+         inkscape:label="έ 941 epsilon with tonos" />
+      <g
+         inkscape:groupmode="layer"
+         id="layer526"
+         inkscape:label="ά 940 alpha with tonos" />
+      <g
+         inkscape:groupmode="layer"
+         id="layer527"
+         inkscape:label="Ώ 911 Omega with tonos" />
+      <g
+         inkscape:groupmode="layer"
+         id="layer528"
+         inkscape:label="Ύ 910 Upsilon with tonos" />
+      <g
+         inkscape:groupmode="layer"
+         id="layer529"
+         inkscape:label="Ό 908 Omicron with tonos" />
+      <g
+         inkscape:groupmode="layer"
+         id="layer530"
+         inkscape:label="Ί 906 Iota with tonos" />
+      <g
+         inkscape:groupmode="layer"
+         id="layer531"
+         inkscape:label="Ή 905 Eta with tonos" />
+      <g
+         inkscape:groupmode="layer"
+         id="layer532"
+         inkscape:label="Έ 904 Epsilon with tonos" />
+      <g
+         inkscape:groupmode="layer"
+         id="layer534"
+         inkscape:label="· 903 Ano teleia" />
+      <g
+         inkscape:groupmode="layer"
+         id="layer533"
+         inkscape:label="Ά 902 Alpha with tonos" />
+      <g
+         inkscape:groupmode="layer"
+         id="layer535"
+         inkscape:label="΅ 901 Dialytika tonos" />
+      <g
+         inkscape:groupmode="layer"
+         id="layer536"
+         inkscape:label="΄ 900 Tonos" />
+      <g
+         inkscape:groupmode="layer"
+         id="layer537"
+         inkscape:label="; 894 Erotimatiko" />
+      <g
+         inkscape:groupmode="layer"
+         id="layer538"
+         inkscape:label="ͺ 890 Ypogegrammeni" />
+      <g
+         inkscape:groupmode="layer"
+         id="layer539"
+         inkscape:label="͵ 885 Lower numeral sign (Aristeri keraia)" />
+      <g
+         inkscape:groupmode="layer"
+         id="layer516"
+         inkscape:label="ʹ 884 Numeral Sign (Dexia Keraia)" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer37"
+       inkscape:label="omega ω 969" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer36"
+       inkscape:label="psi ψ 968"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer35"
+       inkscape:label="chi χ 967"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer34"
+       inkscape:label="phi φ 966"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer33"
+       inkscape:label="upsilon υ 965"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer32"
+       inkscape:label="tau τ 964"
+       style="display:none" />
+    <g
+       style="display:none"
+       inkscape:label="sigma σ 963"
+       id="g4798"
+       inkscape:groupmode="layer" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer31"
+       inkscape:label="sigma final ς 962"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer514"
+       inkscape:label="rho ρ 961"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer168"
+       inkscape:label="pi π 960"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer30"
+       inkscape:label="omicron ο 959"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer29"
+       inkscape:label="xi ξ 958"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer28"
+       inkscape:label="nu ν 957"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer27"
+       inkscape:label="mu μ 956"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer57"
+       inkscape:label="lamda λ 955"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer25"
+       inkscape:label="kappa κ 954"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer24"
+       inkscape:label="iota ι 953"
+       style="display:none">
+      <path
+         style="display:inline;fill:none;stroke:#000000;stroke-width:1.25;stroke-miterlimit:4;stroke-dasharray:none"
+         d="m 566.34982,712 c -22.83092,0 -41.33903,-18.50811 -41.35291,-41.32407 l -0.0139,-336.98953"
+         id="path4434"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccc" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer23"
+       inkscape:label="theta θ 952"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer22"
+       inkscape:label="eta η 951"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer21"
+       inkscape:label="zeta ζ 950"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer20"
+       inkscape:label="epsilon ε 949"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer18"
+       inkscape:label="delta δ 948"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer16"
+       inkscape:label="gamma γ947"
+       style="display:none">
+      <g
+         style="display:inline"
+         id="g4381"
+         transform="matrix(1,0,0,-1,0.06855801,957.24447)" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer17"
+       inkscape:label="beta β 946"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer15"
+       inkscape:label="alpha α 945"
+       style="display:none" />
+    <g
+       inkscape:label="Omega Ω 937"
+       id="g4506"
+       inkscape:groupmode="layer"
+       style="display:none" />
+    <g
+       inkscape:label="Psi Ψ 936"
+       id="g4509"
+       inkscape:groupmode="layer"
+       style="display:none" />
+    <g
+       inkscape:label="Chi Χ 935"
+       id="g4511"
+       inkscape:groupmode="layer"
+       style="display:none" />
+    <g
+       inkscape:label="Phi Φ 934"
+       id="g4513"
+       inkscape:groupmode="layer"
+       style="display:none" />
+    <g
+       inkscape:label="Upsilon Υ 933"
+       id="g4515"
+       inkscape:groupmode="layer"
+       style="display:none" />
+    <g
+       inkscape:label="Tau Τ 932"
+       id="g4517"
+       inkscape:groupmode="layer"
+       style="display:none" />
+    <g
+       inkscape:label="Sigma Σ 931"
+       id="g4519"
+       inkscape:groupmode="layer"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer513"
+       inkscape:label="Rho Ρ 929"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer169"
+       inkscape:label="Pi Π 928"
+       style="display:none" />
+    <g
+       inkscape:label="Omicron Ο 927"
+       id="g4521"
+       inkscape:groupmode="layer"
+       style="display:none" />
+    <g
+       inkscape:label="Xi Ξ 926"
+       id="g4523"
+       inkscape:groupmode="layer"
+       style="display:none" />
+    <g
+       inkscape:label="Nu Ν 925"
+       id="g4525"
+       inkscape:groupmode="layer"
+       style="display:none" />
+    <g
+       inkscape:label="Mu Μ 924"
+       id="g4527"
+       inkscape:groupmode="layer"
+       style="display:none" />
+    <g
+       style="display:none"
+       inkscape:label="Lamda Λ 923"
+       id="g4529"
+       inkscape:groupmode="layer" />
+    <g
+       style="display:none"
+       inkscape:label="Kappa Κ 922"
+       id="g4537"
+       inkscape:groupmode="layer" />
+    <g
+       style="display:none"
+       inkscape:label="Iota Ι 921"
+       id="g4543"
+       inkscape:groupmode="layer" />
+    <g
+       style="display:none"
+       inkscape:label="Theta Θ 920"
+       id="g4547"
+       inkscape:groupmode="layer" />
+    <g
+       style="display:none"
+       inkscape:label="Eta Η 919"
+       id="g4555"
+       inkscape:groupmode="layer" />
+    <g
+       style="display:none"
+       inkscape:label="Zeta Ζ 918"
+       id="g4565"
+       inkscape:groupmode="layer" />
+    <g
+       style="display:none"
+       inkscape:label="Epsilon Ε 917"
+       id="g4569"
+       inkscape:groupmode="layer" />
+    <g
+       style="display:none"
+       inkscape:label="Delta Δ 916"
+       id="g4577"
+       inkscape:groupmode="layer" />
+    <g
+       style="display:none"
+       inkscape:label="Gamma Γ 915"
+       id="g4581"
+       inkscape:groupmode="layer">
+      <g
+         transform="matrix(1,0,0,-1,0.06855801,957.24447)"
+         id="g4583"
+         style="display:inline" />
+    </g>
+    <g
+       style="display:none"
+       inkscape:label="Beta Β 914"
+       id="g4589"
+       inkscape:groupmode="layer" />
+    <g
+       style="display:none"
+       inkscape:label="Alpha Α 913"
+       id="g4599"
+       inkscape:groupmode="layer">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1.25;stroke-miterlimit:4;stroke-dasharray:none"
+         d="m 754.89838,711.91526 c -22.83092,0 -41.33903,-18.50811 -41.35291,-41.32407 l -0.0139,-147.71808 c 0,-104.35284 -84.5947,-188.94754 -188.94754,-188.94754 -104.35284,0 -188.94754,84.5947 -188.94754,188.94754 0,104.35284 84.5947,188.94754 188.94754,188.94754 104.35284,0 188.93772,-84.5947 188.94754,-188.94754 l 0.0139,-147.73427 c 0.0139,-22.49115 18.52199,-40.99926 41.35291,-40.99926"
+         id="path4601"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccssscscc" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer39"
+     inkscape:label="IPA Phonetic Characters"
+     style="display:none">
+    <g
+       inkscape:groupmode="layer"
+       id="layer475"
+       inkscape:label="IPA Type http://ipa.typeit.org/full/" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer13"
+       inkscape:label="IPA ASCII Decimal http://www.phon.ucl.ac.uk/home/sampa/index.html" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer474"
+       inkscape:label="IPA http://www.linguiste.org/chart.html" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer216"
+       inkscape:label="Non-English">
+      <g
+         inkscape:groupmode="layer"
+         id="layer277"
+         inkscape:label="empty set ∅ 8709" />
+      <g
+         inkscape:groupmode="layer"
+         id="layer621"
+         inkscape:label="closed opene ʚ 666" />
+      <g
+         inkscape:groupmode="layer"
+         id="layer622"
+         inkscape:label="small cap B ʙ 665" />
+      <g
+         inkscape:groupmode="layer"
+         id="layer620"
+         inkscape:label="latin bilabial click ʘ 664" />
+      <g
+         inkscape:groupmode="layer"
+         id="layer619"
+         inkscape:label="latin retroflex click ǃ 451" />
+      <g
+         inkscape:groupmode="layer"
+         id="layer618"
+         inkscape:label="latin alveolar click ǂ 450" />
+      <g
+         inkscape:groupmode="layer"
+         id="layer276"
+         inkscape:label="latin dental click ǀ 448" />
+      <g
+         inkscape:groupmode="layer"
+         id="layer275"
+         inkscape:label="other denoters  ̈  ̃ ːˑ ̆  ͡   ͜   ‿  ̥ ̊ ̬ ̩ ̯ ˞ ̝ ̞ ̟ ̠" />
+      <g
+         inkscape:groupmode="layer"
+         id="layer272"
+         inkscape:label="small j ʲ 690" />
+      <g
+         inkscape:groupmode="layer"
+         id="layer271"
+         inkscape:label="small w ʷ 695" />
+      <g
+         inkscape:groupmode="layer"
+         id="layer270"
+         inkscape:label="small h ʰ 688" />
+      <g
+         inkscape:groupmode="layer"
+         id="layer269"
+         inkscape:label="barred golattal stop ʡ 673" />
+      <g
+         inkscape:groupmode="layer"
+         id="layer268"
+         inkscape:label="reversed barred golattal stop ʢ 674" />
+      <g
+         inkscape:groupmode="layer"
+         id="layer60"
+         inkscape:label="reversed golattal stop ʕ 661" />
+      <g
+         inkscape:groupmode="layer"
+         id="layer230"
+         inkscape:label="ʑ 657" />
+      <g
+         inkscape:groupmode="layer"
+         id="layer229"
+         inkscape:label="ʐ 656" />
+      <g
+         inkscape:groupmode="layer"
+         id="layer228"
+         inkscape:label="x-height gamma ɤ 612 (rams horn)" />
+      <g
+         inkscape:groupmode="layer"
+         id="layer227"
+         inkscape:label="small cap y ʏ 655" />
+      <g
+         inkscape:groupmode="layer"
+         id="layer226"
+         inkscape:label="gamma ɣ 611" />
+      <g
+         inkscape:groupmode="layer"
+         id="layer225"
+         inkscape:label="turned y ʎ 654" />
+      <g
+         inkscape:groupmode="layer"
+         id="layer224"
+         inkscape:label="chi χ 967" />
+      <g
+         inkscape:groupmode="layer"
+         id="layer221"
+         inkscape:label="turned m long leg ɰ 624" />
+      <g
+         inkscape:groupmode="layer"
+         id="layer222"
+         inkscape:label="turned m ɯ 623" />
+      <g
+         inkscape:groupmode="layer"
+         id="layer223"
+         inkscape:label="turned w ʍ 653" />
+      <g
+         inkscape:groupmode="layer"
+         id="layer231"
+         inkscape:label="ⱱ 11377" />
+      <g
+         inkscape:groupmode="layer"
+         id="layer61"
+         inkscape:label="cursive v ʋ 651" />
+      <g
+         inkscape:groupmode="layer"
+         id="layer232"
+         inkscape:label="ʉ 649" />
+      <g
+         inkscape:groupmode="layer"
+         id="layer234"
+         inkscape:label="descender t ʈ 648" />
+      <g
+         inkscape:groupmode="layer"
+         id="layer267"
+         inkscape:label="ts t͡s 116+865+115" />
+      <g
+         inkscape:groupmode="layer"
+         id="layer215"
+         inkscape:label="ch t͡ʃ 116+865+643" />
+      <g
+         inkscape:groupmode="layer"
+         id="layer235"
+         inkscape:label="ʂ 642" />
+      <g
+         inkscape:groupmode="layer"
+         id="layer266"
+         inkscape:label="turned reversed r with ascender ɺ 634" />
+      <g
+         inkscape:groupmode="layer"
+         id="layer265"
+         inkscape:label="r wtih hook ɽ 637" />
+      <g
+         inkscape:groupmode="layer"
+         id="layer264"
+         inkscape:label="small cap r ʀ 640" />
+      <g
+         inkscape:groupmode="layer"
+         id="layer263"
+         inkscape:label="turned reversed r with hook ɻ 635" />
+      <g
+         inkscape:groupmode="layer"
+         id="layer262"
+         inkscape:label="turned reversed r ɹ 633" />
+      <g
+         inkscape:groupmode="layer"
+         id="layer261"
+         inkscape:label="turned reversed small cap r ʁ 641" />
+      <g
+         inkscape:groupmode="layer"
+         id="layer260"
+         inkscape:label="small cap phi ɸ 632" />
+      <g
+         inkscape:groupmode="layer"
+         id="layer213"
+         inkscape:label="open front rounded vowel ɶ 630" />
+      <g
+         inkscape:groupmode="layer"
+         id="layer259"
+         inkscape:label="openo with tilde ɔ̃ 596+771" />
+      <g
+         inkscape:groupmode="layer"
+         id="layer233"
+         inkscape:label="reversed single-story a ɒ 594" />
+      <g
+         inkscape:groupmode="layer"
+         id="layer62"
+         inkscape:label="slashed o ø 248" />
+      <g
+         inkscape:groupmode="layer"
+         id="layer49"
+         inkscape:label="ethel oe œ 339 (Greek dipthong)" />
+      <g
+         inkscape:groupmode="layer"
+         id="layer258"
+         inkscape:label="n with front hook ɳ 627" />
+      <g
+         inkscape:groupmode="layer"
+         id="layer257"
+         inkscape:label="small cap n ɴ 628" />
+      <g
+         inkscape:groupmode="layer"
+         id="layer256"
+         inkscape:label="n with back hook ɲ 626" />
+      <g
+         inkscape:groupmode="layer"
+         id="layer220"
+         inkscape:label="hook m ɱ 625" />
+      <g
+         inkscape:groupmode="layer"
+         id="layer50"
+         inkscape:label="lezh ɮ 622" />
+      <g
+         inkscape:groupmode="layer"
+         id="layer255"
+         inkscape:label="l with descender ɭ 621 (retroflex hook)" />
+      <g
+         inkscape:groupmode="layer"
+         id="layer254"
+         inkscape:label="small cap l ʟ 671" />
+      <g
+         inkscape:groupmode="layer"
+         id="layer253"
+         inkscape:label="l with curl ɬ 620" />
+      <g
+         inkscape:groupmode="layer"
+         id="layer252"
+         inkscape:label="dotless stroke and hook j ʄ 644" />
+      <g
+         inkscape:groupmode="layer"
+         id="layer251"
+         inkscape:label=" dotless stroke j ɟ 607" />
+      <g
+         inkscape:groupmode="layer"
+         id="layer250"
+         inkscape:label="j with curl ʝ 669" />
+      <g
+         inkscape:groupmode="layer"
+         id="layer249"
+         inkscape:label="barred i ɨ 616" />
+      <g
+         inkscape:groupmode="layer"
+         id="layer617"
+         inkscape:label="small cap iota with diaeresis ɪ̈ 618+776" />
+      <g
+         inkscape:groupmode="layer"
+         id="layer248"
+         inkscape:label="small cap h ʜ 668" />
+      <g
+         inkscape:groupmode="layer"
+         id="layer217"
+         inkscape:label="sj hook hood top h ɧ 615" />
+      <g
+         inkscape:groupmode="layer"
+         id="layer65"
+         inkscape:label="barred h ħ 295" />
+      <g
+         inkscape:groupmode="layer"
+         id="layer67"
+         inkscape:label="hook top h ɦ 614" />
+      <g
+         inkscape:groupmode="layer"
+         id="layer218"
+         inkscape:label="turned h ɥ 613" />
+      <g
+         inkscape:groupmode="layer"
+         id="layer247"
+         inkscape:label="small cap g top hook ʛ 667" />
+      <g
+         inkscape:groupmode="layer"
+         id="layer246"
+         inkscape:label="small cap g ɢ 610" />
+      <g
+         inkscape:groupmode="layer"
+         id="layer245"
+         inkscape:label="g with top hook ɠ 608" />
+      <g
+         inkscape:groupmode="layer"
+         id="layer219"
+         inkscape:label="closed reversed opene ɞ 606" />
+      <g
+         inkscape:groupmode="layer"
+         id="layer244"
+         inkscape:label="epsilon wtih tilde ɛ̃ 603+771" />
+      <g
+         inkscape:groupmode="layer"
+         id="layer243"
+         inkscape:label="reversed e ɘ 600" />
+      <g
+         inkscape:groupmode="layer"
+         id="layer64"
+         inkscape:label="barred o ɵ 629" />
+      <g
+         inkscape:groupmode="layer"
+         id="layer242"
+         inkscape:label="d with top hook ɗ 599" />
+      <g
+         inkscape:groupmode="layer"
+         id="layer241"
+         inkscape:label="d with hook ɖ 598" />
+      <g
+         inkscape:groupmode="layer"
+         id="layer214"
+         inkscape:label="dj d͡ʒ 100+865+658" />
+      <g
+         inkscape:groupmode="layer"
+         id="layer98"
+         inkscape:label="cedilla c ç 231" />
+      <g
+         inkscape:groupmode="layer"
+         id="layer240"
+         inkscape:label="c with curl ɕ 597" />
+      <g
+         inkscape:groupmode="layer"
+         id="layer239"
+         inkscape:label="small cap b ʙ 665" />
+      <g
+         inkscape:groupmode="layer"
+         id="layer66"
+         inkscape:label="hook top b ɓ 595" />
+      <g
+         inkscape:groupmode="layer"
+         id="layer238"
+         inkscape:label="beta 1 β 946" />
+      <g
+         inkscape:groupmode="layer"
+         id="layer237"
+         inkscape:label="single-story a tilde ɑ̃ 593+771" />
+      <g
+         inkscape:groupmode="layer"
+         id="layer236"
+         inkscape:label="turned double-story a ɐ 592" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer613"
+       inkscape:label="double high-reversed-9 quote ‟ 8223" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer612"
+       inkscape:label="double low-9 quote „ 8222" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer611"
+       inkscape:label="right double quote ” 8221" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer610"
+       inkscape:label="left double quote “ 8220" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer609"
+       inkscape:label="single high-reversed-9 single quote ‛ 8219" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer607"
+       inkscape:label="single low-9 quote ‚ 8218" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer606"
+       inkscape:label="right single quote ’ 8217" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer608"
+       inkscape:label="left single quote ‘ 8216" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer615"
+       inkscape:label="em dash — 8212" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer614"
+       inkscape:label="en dash – 8211" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer515"
+       inkscape:label="combining tilde  ̃  771" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer278"
+       inkscape:label="vowel length ː 720" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer211"
+       inkscape:label="low vertical line ˌ 716" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer212"
+       inkscape:label="high vertical line ˈ 712" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer201"
+       inkscape:label="right-pointing arrow → 8594" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer200"
+       inkscape:label="double-barred pipe ‖ 8214" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer209"
+       inkscape:label="small t ᵗ 7511" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer279"
+       inkscape:label="ene ñ 241" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer616"
+       inkscape:label="Ene Ñ 209 (capital letter N with tilde)" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer197"
+       inkscape:label="single-story reversed a ɒ 594" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer54"
+       inkscape:label="openo ɔ 596" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer58"
+       inkscape:label="eng ŋ 331" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer205"
+       inkscape:label="small l with middle tilde ɫ 619" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer204"
+       inkscape:label="near-close central unrounded vowel ɪ̈ 618+776 (i with diaeresis)" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer44"
+       inkscape:label="iota ɪ 618" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer206"
+       inkscape:label="R-colored vowel ɝ 605" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer198"
+       inkscape:label="epsilon 1 ɛ 603" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer199"
+       inkscape:label="reversed epsilon ɜ 604" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer207"
+       inkscape:label="R-colored vowel ɚ 602" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer208"
+       inkscape:label="small schwa ᵊ 7498" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer41"
+       inkscape:label="schwa ə 601" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer43"
+       inkscape:label="eth ð 240" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer196"
+       inkscape:label="single-story a ɑ 593" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer48"
+       inkscape:label="ash ae æ 230" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer45"
+       inkscape:label="gollatal stop ʔ 660" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer42"
+       inkscape:label="yogh (ezh) ʒ 658" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer53"
+       inkscape:label="turned v ʌ 652" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer203"
+       inkscape:label="near-close central rounded vowel ʊ̈ 650+776 (with diaeresis)" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer170"
+       inkscape:label="upsilon 1 ʊ 650" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer195"
+       inkscape:label="stopped t t̬ 116812" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer193"
+       inkscape:label="theta 1 θ 952" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer40"
+       inkscape:label="esh ʃ 643" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer202"
+       inkscape:label="alveolar tap &quot;flap&quot; ɾ 638" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer194"
+       inkscape:label="turned r ɹ 633" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer210"
+       inkscape:label="small r ʳ 691" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer284"
+     inkscape:label="ASCII 128-255 Code: http://www.ascii-code.com/">
+    <g
+       inkscape:groupmode="layer"
+       id="layer314"
+       inkscape:label="255 ÿ" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer51"
+       inkscape:label="254 þ" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer52"
+       inkscape:label="253 ý" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer55"
+       inkscape:label="252 ü" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer56"
+       inkscape:label="251 û" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer59"
+       inkscape:label="250 ú" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer63"
+       inkscape:label="249 ù" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer68"
+       inkscape:label="248 ø" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer273"
+       inkscape:label="247 ÷" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer274"
+       inkscape:label="246 ö" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer367"
+       inkscape:label="245 õ" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer368"
+       inkscape:label="244 ô" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer369"
+       inkscape:label="243 ó" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer370"
+       inkscape:label="242 ò" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer371"
+       inkscape:label="241 ñ" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer372"
+       inkscape:label="240 ð" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer373"
+       inkscape:label="239 ï" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer374"
+       inkscape:label="238 î" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer375"
+       inkscape:label="237 í" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer376"
+       inkscape:label="236 ì" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer377"
+       inkscape:label="235 ë" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer378"
+       inkscape:label="234 ê" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer379"
+       inkscape:label="233 é" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer380"
+       inkscape:label="232 è" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer381"
+       inkscape:label="231 ç" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer382"
+       inkscape:label="230 æ" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer383"
+       inkscape:label="229 å" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer384"
+       inkscape:label="228 ä" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer385"
+       inkscape:label="227 ã" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer386"
+       inkscape:label="226 â" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer387"
+       inkscape:label="225 á" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer388"
+       inkscape:label="224 à" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer389"
+       inkscape:label="223 ß" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer390"
+       inkscape:label="222 Þ" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer391"
+       inkscape:label="221 Ý" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer392"
+       inkscape:label="220 Ü" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer393"
+       inkscape:label="219 Û" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer394"
+       inkscape:label="218 Ú" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer395"
+       inkscape:label="217 Ù" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer396"
+       inkscape:label="216 Ø" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer397"
+       inkscape:label="215 ×" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer398"
+       inkscape:label="214 Ö" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer399"
+       inkscape:label="213 Õ" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer400"
+       inkscape:label="212 Ô" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer401"
+       inkscape:label="211 Ó" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer402"
+       inkscape:label="210 Ò" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer403"
+       inkscape:label="209 Ñ" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer404"
+       inkscape:label="208 Ð" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer405"
+       inkscape:label="207 Ï" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer406"
+       inkscape:label="206 Î" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer407"
+       inkscape:label="205 Í" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer408"
+       inkscape:label="204 Ì" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer409"
+       inkscape:label="203 Ë" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer410"
+       inkscape:label="202 Ê" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer411"
+       inkscape:label="201 É" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer412"
+       inkscape:label="200 È" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer413"
+       inkscape:label="199 Ç" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer414"
+       inkscape:label="198 Æ" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer415"
+       inkscape:label="197 Å" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer416"
+       inkscape:label="196 Ä" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer417"
+       inkscape:label="195 Ã" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer418"
+       inkscape:label="194 Â" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer419"
+       inkscape:label="193 Á" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer420"
+       inkscape:label="192 À" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer421"
+       inkscape:label="191 ¿" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer422"
+       inkscape:label="190 ¾" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer423"
+       inkscape:label="189 ½" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer424"
+       inkscape:label="188 ¼" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer425"
+       inkscape:label="187 »" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer426"
+       inkscape:label="186 º masculine ordinal indicator" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer427"
+       inkscape:label="185 ¹" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer428"
+       inkscape:label="184 ¸ spacing cedilla" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer429"
+       inkscape:label="183 · middle dot - Goergian comma" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer430"
+       inkscape:label="182 ¶ pilcrow sign" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer431"
+       inkscape:label="181 µ - micro sign" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer432"
+       inkscape:label="180 ´ accute" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer366"
+       inkscape:label="179 ³" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer365"
+       inkscape:label="178 ²" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer364"
+       inkscape:label="177 ±" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer363"
+       inkscape:label="176 °" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer362"
+       inkscape:label="175 ¯" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer361"
+       inkscape:label="174 ®" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer360"
+       inkscape:label="173 unused" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer359"
+       inkscape:label="172 ¬" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer358"
+       inkscape:label="171 «" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer357"
+       inkscape:label="170 ª" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer356"
+       inkscape:label="169 ©" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer355"
+       inkscape:label="168 ¨" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer354"
+       inkscape:label="167 §" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer353"
+       inkscape:label="166 ¦" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer352"
+       inkscape:label="165 ¥" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer351"
+       inkscape:label="164 ¤" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer350"
+       inkscape:label="163 £" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer349"
+       inkscape:label="162 ¢" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer348"
+       inkscape:label="161 ¡" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer347"
+       inkscape:label="160 unused" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer346"
+       inkscape:label="159 Ÿ" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer345"
+       inkscape:label="158 ž" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer344"
+       inkscape:label="157 unused" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer343"
+       inkscape:label="156 œ" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer342"
+       inkscape:label="155 ›" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer341"
+       inkscape:label="154 š" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer340"
+       inkscape:label="153 ™" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer339"
+       inkscape:label="152 ˜" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer338"
+       inkscape:label="151 em —" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer337"
+       inkscape:label="150 en –" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer336"
+       inkscape:label="149 •" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer335"
+       inkscape:label="148 close double quote ”" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer334"
+       inkscape:label="147 open double quote “" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer333"
+       inkscape:label="146 close single quote ’" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer332"
+       inkscape:label="145 open single quote ‘" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer331"
+       inkscape:label="144 unused" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer330"
+       inkscape:label="143 unused" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer329"
+       inkscape:label="142 Ž" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer328"
+       inkscape:label="141 unused" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer327"
+       inkscape:label="140 Œ" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer326"
+       inkscape:label="139 ‹" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer324"
+       inkscape:label="138 Š" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer323"
+       inkscape:label="137 ‰" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer322"
+       inkscape:label="136 ˆ" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer321"
+       inkscape:label="135 ‡" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer320"
+       inkscape:label="134 †" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer319"
+       inkscape:label="133 …" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer318"
+       inkscape:label="132 „" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer317"
+       inkscape:label="131 ƒ" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer316"
+       inkscape:label="130 ‚" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer325"
+       inkscape:label="129 unused" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer315"
+       inkscape:label="128 €" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer433"
+     inkscape:label="ASCII 32-127 Converter: https://www.branah.com/ascii-converter">
+    <g
+       inkscape:groupmode="layer"
+       id="layer434"
+       inkscape:label="127 unused" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer435"
+       inkscape:label="126 ~" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer436"
+       inkscape:label="125 }" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer437"
+       inkscape:label="124 |" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer438"
+       inkscape:label="123 {" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer439"
+       inkscape:label="122 z" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer558"
+       inkscape:label="121 y" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer559"
+       inkscape:label="120 x" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer560"
+       inkscape:label="119 w" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer561"
+       inkscape:label="118 v" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer562"
+       inkscape:label="117 u" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer563"
+       inkscape:label="116 t" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer564"
+       inkscape:label="115 s" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer565"
+       inkscape:label="114 r" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer566"
+       inkscape:label="113 q" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer567"
+       inkscape:label="112 p" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer568"
+       inkscape:label="111 o" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer569"
+       inkscape:label="110 n" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer570"
+       inkscape:label="109 m" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer571"
+       inkscape:label="108 l" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer572"
+       inkscape:label="107 k" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer573"
+       inkscape:label="106 j" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer574"
+       inkscape:label="105 i" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer575"
+       inkscape:label="104 h" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer576"
+       inkscape:label="103 g" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer577"
+       inkscape:label="102 f" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer578"
+       inkscape:label="101 e" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer579"
+       inkscape:label="100 d" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer580"
+       inkscape:label="99 c" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer581"
+       inkscape:label="98 b" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer440"
+       inkscape:label="97 a" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer441"
+       inkscape:label="96 `" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer442"
+       inkscape:label="95 _" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer443"
+       inkscape:label="94 ^" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer444"
+       inkscape:label="93 ]" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer445"
+       inkscape:label="92 \" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer446"
+       inkscape:label="91 [" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer447"
+       inkscape:label="90 Z" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer582"
+       inkscape:label="89 Y" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer583"
+       inkscape:label="88 X" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer584"
+       inkscape:label="87 W" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer585"
+       inkscape:label="86 V" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer586"
+       inkscape:label="85 U" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer587"
+       inkscape:label="84 T" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer588"
+       inkscape:label="83 S" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer589"
+       inkscape:label="82 R" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer590"
+       inkscape:label="81 Q" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer591"
+       inkscape:label="80 P" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer592"
+       inkscape:label="79 O" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer593"
+       inkscape:label="78 N" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer594"
+       inkscape:label="77 M" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer595"
+       inkscape:label="76 L" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer596"
+       inkscape:label="75 K" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer597"
+       inkscape:label="74 J" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer598"
+       inkscape:label="73 I" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer599"
+       inkscape:label="72 H" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer600"
+       inkscape:label="71 G" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer601"
+       inkscape:label="70 F" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer602"
+       inkscape:label="69 E" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer603"
+       inkscape:label="68 D" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer604"
+       inkscape:label="67 C" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer605"
+       inkscape:label="66 B" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer448"
+       inkscape:label="65 A" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer449"
+       inkscape:label="64 @" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer450"
+       inkscape:label="63 ?" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer451"
+       inkscape:label="62 &gt;" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer452"
+       inkscape:label="61 =" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer453"
+       inkscape:label="60 &lt;" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer454"
+       inkscape:label="59 ;" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer455"
+       inkscape:label="58 :" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer456"
+       inkscape:label="57 9" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer457"
+       inkscape:label="48 0" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer458"
+       inkscape:label="47 /" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer459"
+       inkscape:label="46 ." />
+    <g
+       inkscape:groupmode="layer"
+       id="layer460"
+       inkscape:label="45 -" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer461"
+       inkscape:label="44 ," />
+    <g
+       inkscape:groupmode="layer"
+       id="layer462"
+       inkscape:label="43 +" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer463"
+       inkscape:label="42 *" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer464"
+       inkscape:label="41 )" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer465"
+       inkscape:label="40 (" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer466"
+       inkscape:label="39 '" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer467"
+       inkscape:label="38 &amp;" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer468"
+       inkscape:label="37 %" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer469"
+       inkscape:label="36 $" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer470"
+       inkscape:label="35 #" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer471"
+       inkscape:label="34 &quot;" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer472"
+       inkscape:label="33 !" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer473"
+       inkscape:label="32 space" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer14"
+     inkscape:label="Special Characters"
+     style="display:none">
+    <g
+       inkscape:groupmode="layer"
+       id="layer164"
+       inkscape:label="empty set ∅" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer281"
+       inkscape:label="forte"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer282"
+       inkscape:label="piano"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer283"
+       inkscape:label="mezzo"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer166"
+       inkscape:label="flat"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer167"
+       inkscape:label="sharp"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer165"
+       inkscape:label="no."
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer107"
+       inkscape:label="TM"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer108"
+       inkscape:label="Trademark R"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer105"
+       inkscape:label="copyright"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer106"
+       inkscape:label="degree"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer69"
+       inkscape:label="en dash"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer70"
+       inkscape:label="em dash"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer175"
+       inkscape:label="plus-minus"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer176"
+       inkscape:label="not sign"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer79"
+       inkscape:label="plus"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer83"
+       inkscape:label="minus"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer91"
+       inkscape:label="divide"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer92"
+       inkscape:label="times"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer90"
+       inkscape:label="equal sign"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer93"
+       inkscape:label="greater than"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer89"
+       inkscape:label="less than"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer100"
+       inkscape:label="underscore"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer101"
+       inkscape:label="left brace {"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer102"
+       inkscape:label="right brace }"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer97"
+       inkscape:label="right bracket ]"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer96"
+       inkscape:label="left bracket ["
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer81"
+       inkscape:label="left parenthesis"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer82"
+       inkscape:label="right parenthesis"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer171"
+       inkscape:label="section sign ss"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer174"
+       inkscape:label="pilcrow 'paragraph' sign"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer280"
+       inkscape:label="pound"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer109"
+       inkscape:label="euro"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer111"
+       inkscape:label="yen"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer110"
+       inkscape:label="sheckel"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer173"
+       inkscape:label="cents sign"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer75"
+       inkscape:label="dollar sign"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer76"
+       inkscape:label="percent"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer38"
+       inkscape:label="asterisk"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer74"
+       inkscape:label="hash"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer172"
+       inkscape:label="broken bar"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer103"
+       inkscape:label="vertical bar |"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer86"
+       inkscape:label="backslash"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer85"
+       inkscape:label="slash"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer95"
+       inkscape:label="at sign"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer179"
+       inkscape:label="middle dot"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer185"
+       inkscape:label="macron 'overbar'"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer104"
+       inkscape:label="tilde ~"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer186"
+       inkscape:label="diaeresis"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer99"
+       inkscape:label="caret"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer182"
+       inkscape:label="cedilla"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer71"
+       inkscape:label="backtick"
+       style="display:none">
+      <path
+         sodipodi:nodetypes="ccccccc"
+         inkscape:connector-curvature="0"
+         inkscape:original-d="m 505.76264,196.43099 37.64285,0 -37.64285,-112.92855 -37.64285,0 -37.64285,0 0,37.64285 z"
+         inkscape:path-effect="#path-effect4776"
+         id="path4774"
+         d="m 505.76264,196.43099 37.64285,0 -37.64285,-112.92855 -37.64285,0 -37.64285,0 0,37.64285 75.2857,75.2857 z"
+         style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.40553939px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer187"
+       inkscape:label="accute"
+       style="display:none">
+      <path
+         style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.40553939px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 505.76264,196.43099 37.64285,0"
+         id="path4730"
+         inkscape:path-effect="#path-effect4732"
+         inkscape:original-d="m 505.76264,196.43099 37.64285,0"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         inkscape:original-d="m 505.76264,196.43099 37.64285,0"
+         inkscape:path-effect="#path-effect4762"
+         id="path4760"
+         d="m 505.76264,196.43099 37.64285,0"
+         style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.40553939px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.40553939px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 543.40549,196.43099 -37.64285,0 37.64285,-112.92855 37.64285,0 37.64285,0 0,37.64285 -75.2857,75.2857 z"
+         id="path4769"
+         inkscape:path-effect="#path-effect4771"
+         inkscape:original-d="m 543.40549,196.43099 -37.64285,0 37.64285,-112.92855 37.64285,0 37.64285,0 0,37.64285 z"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccccc" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer180"
+       inkscape:label="masculine ordinal indicator"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer181"
+       inkscape:label="feminine ordinal indicator"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer183"
+       inkscape:label="left pointing double angle quote"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer184"
+       inkscape:label="right pointing double angle quote"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer189"
+       inkscape:label="opening closing quote"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer190"
+       inkscape:label="opening double quote"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer191"
+       inkscape:label="closing single quote"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer192"
+       inkscape:label="opening single quote"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer78"
+       inkscape:label="double quote"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer77"
+       inkscape:label="single quote"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer84"
+       inkscape:label="full stop ."
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer73"
+       inkscape:label="exclamation mark"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer177"
+       inkscape:label="inverted exclamation mark"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer94"
+       inkscape:label="question mark"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer178"
+       inkscape:label="inverted question mark"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer87"
+       inkscape:label="colon"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer88"
+       inkscape:label="semicolon"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer80"
+       inkscape:label="comma"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer72"
+       inkscape:label="apostrophe"
+       style="display:none">
+      <path
+         style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.40553939px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 543.40549,234.07384 -37.64285,0 75.2857,-150.5714 37.64285,0 0,37.64285 0,37.64285 -75.2857,75.2857 z"
+         id="path4793"
+         inkscape:path-effect="#path-effect4795"
+         inkscape:original-d="m 543.40549,234.07384 -37.64285,0 75.2857,-150.5714 37.64285,0 0,37.64285 0,37.64285 z"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccccc" />
+    </g>
+    <g
+       style="display:none"
+       inkscape:label="ampersand"
+       id="g4415"
+       inkscape:groupmode="layer" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer12"
+     inkscape:label="English"
+     style="display:none">
+    <g
+       inkscape:groupmode="layer"
+       id="layer138"
+       inkscape:label="Z"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer139"
+       inkscape:label="Y"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer140"
+       inkscape:label="X"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer141"
+       inkscape:label="W"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer142"
+       inkscape:label="V"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer143"
+       inkscape:label="U"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer144"
+       inkscape:label="T"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer145"
+       inkscape:label="S"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer146"
+       inkscape:label="R"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer147"
+       inkscape:label="Q"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer148"
+       inkscape:label="P"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer149"
+       inkscape:label="O"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer150"
+       inkscape:label="N"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer151"
+       inkscape:label="M"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer152"
+       inkscape:label="L"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer153"
+       inkscape:label="K"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer154"
+       inkscape:label="J"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer155"
+       inkscape:label="I"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer156"
+       inkscape:label="H"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer157"
+       inkscape:label="G"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer158"
+       inkscape:label="F"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer159"
+       inkscape:label="E"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer160"
+       inkscape:label="D"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer161"
+       inkscape:label="C"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer162"
+       inkscape:label="B"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer163"
+       inkscape:label="A"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer114"
+       inkscape:label="z"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer115"
+       inkscape:label="y"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer116"
+       inkscape:label="x"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer117"
+       inkscape:label="w"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer118"
+       inkscape:label="v"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer119"
+       inkscape:label="u"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer120"
+       inkscape:label="t"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer121"
+       inkscape:label="s"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer122"
+       inkscape:label="r"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer123"
+       inkscape:label="q"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer124"
+       inkscape:label="p"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer125"
+       inkscape:label="o"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer126"
+       inkscape:label="n"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer127"
+       inkscape:label="m"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer128"
+       inkscape:label="l"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer129"
+       inkscape:label="k"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer130"
+       inkscape:label="j"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer131"
+       inkscape:label="i"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer132"
+       inkscape:label="h"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer133"
+       inkscape:label="g"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="g4353"
+       inkscape:label="g double-story"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer134"
+       inkscape:label="f"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer135"
+       inkscape:label="e"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer136"
+       inkscape:label="d"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer137"
+       inkscape:label="c"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer113"
+       inkscape:label="b"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer112"
+       inkscape:label="a"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="g4342"
+       inkscape:label="a double-story"
+       style="display:none" />
+  </g>
+  <g
+     id="layer1" />
+  <g
+     inkscape:label="Components"
+     id="layer2"
+     inkscape:groupmode="layer"
+     style="display:none">
+    <g
+       inkscape:groupmode="layer"
+       id="layer19"
+       inkscape:label="rouded d"
+       style="display:none" />
+    <g
+       inkscape:label="alpha-String Components"
+       id="g4391"
+       inkscape:groupmode="layer"
+       style="display:none" />
+    <g
+       style="display:none"
+       inkscape:label="x-heights xo"
+       id="layer5"
+       inkscape:groupmode="layer" />
+    <g
+       inkscape:groupmode="layer"
+       id="g4710"
+       inkscape:label="23896 top bot"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer188"
+       inkscape:label="punctuation line"
+       style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="g4679"
+       inkscape:label="unm"
+       style="display:none" />
+    <g
+       style="display:none"
+       inkscape:label="Caps Circle"
+       id="layer6"
+       inkscape:groupmode="layer" />
+    <g
+       style="display:none"
+       inkscape:label="High Caps"
+       id="layer3"
+       inkscape:groupmode="layer" />
+    <g
+       style="display:none"
+       inkscape:label="High Ascender"
+       id="layer4"
+       inkscape:groupmode="layer" />
+    <g
+       style="display:none"
+       inkscape:label="Small f j Curve"
+       id="layer8"
+       inkscape:groupmode="layer" />
+    <g
+       inkscape:groupmode="layer"
+       id="g5192"
+       inkscape:label="VAW"
+       style="display:none">
+      <g
+         transform="matrix(-1.3367485,0,0,0.99913916,1224.5848,0.51714196)"
+         id="g5200" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="g4377"
+       inkscape:label="XNZ"
+       style="display:none">
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 264.83407,711.36177 519.5,0"
+         id="path4536"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       style="display:none"
+       inkscape:label="YM"
+       id="g4554"
+       inkscape:groupmode="layer" />
+    <g
+       style="display:none"
+       inkscape:label="small l t i Curve"
+       id="layer7"
+       inkscape:groupmode="layer">
+      <path
+         sodipodi:nodetypes="ccc"
+         inkscape:connector-curvature="0"
+         id="path4306"
+         d="m 793.52665,0.17361841 3.4e-4,688.70356159 c 3.5e-4,12.34788 10.01162,22.35915 22.36168,22.35915"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.22908139;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+  </g>
+</svg>
