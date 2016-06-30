@@ -20,11 +20,11 @@
    viewBox="0 0 1000 1000">
   <sodipodi:namedview
      inkscape:window-maximized="0"
-     inkscape:current-layer="layer25"
+     inkscape:current-layer="layer634"
      inkscape:window-y="27"
-     inkscape:window-x="807"
-     inkscape:cy="500"
-     inkscape:cx="175.55018"
+     inkscape:window-x="369"
+     inkscape:cy="557.64606"
+     inkscape:cx="-56.250586"
      inkscape:zoom="0.783"
      inkscape:guide-bbox="true"
      showguides="true"
@@ -35,8 +35,8 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1084"
-     inkscape:window-height="1007"
+     inkscape:window-width="1442"
+     inkscape:window-height="993"
      inkscape:document-units="px"
      inkscape:snap-bbox="true"
      inkscape:snap-bbox-edge-midpoints="true"
@@ -3552,6 +3552,96 @@
   </g>
   <g
      inkscape:groupmode="layer"
+     id="layer9"
+     inkscape:label="Numbers Lining">
+    <g
+       inkscape:groupmode="layer"
+       id="layer11"
+       inkscape:label="1" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer26"
+       inkscape:label="2" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer624"
+       inkscape:label="3" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer625"
+       inkscape:label="4" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer626"
+       inkscape:label="5" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer627"
+       inkscape:label="6" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer628"
+       inkscape:label="7" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer629"
+       inkscape:label="8" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer630"
+       inkscape:label="9" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer631"
+       inkscape:label="0" />
+  </g>
+  <g
+     inkscape:label="Numbers Oldstyle"
+     id="g5002"
+     inkscape:groupmode="layer">
+    <g
+       inkscape:label="1"
+       id="g5004"
+       inkscape:groupmode="layer" />
+    <g
+       inkscape:label="2"
+       id="g5006"
+       inkscape:groupmode="layer" />
+    <g
+       inkscape:label="3"
+       id="g5008"
+       inkscape:groupmode="layer" />
+    <g
+       inkscape:label="4"
+       id="g5010"
+       inkscape:groupmode="layer" />
+    <g
+       inkscape:label="5"
+       id="g5012"
+       inkscape:groupmode="layer" />
+    <g
+       inkscape:label="6"
+       id="g5014"
+       inkscape:groupmode="layer" />
+    <g
+       inkscape:label="7"
+       id="g5016"
+       inkscape:groupmode="layer" />
+    <g
+       inkscape:label="8"
+       id="g5018"
+       inkscape:groupmode="layer" />
+    <g
+       inkscape:label="9"
+       id="g5020"
+       inkscape:groupmode="layer" />
+    <g
+       inkscape:label="0"
+       id="g5022"
+       inkscape:groupmode="layer" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
      id="layer12"
      inkscape:label="English"
      style="display:none">
@@ -3853,6 +3943,14 @@
        id="g4710"
        inkscape:label="23896 top bot"
        style="display:none" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer633"
+       inkscape:label="537 ovals &amp; curves" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer634"
+       inkscape:label="serifs" />
     <g
        inkscape:groupmode="layer"
        id="layer188"
